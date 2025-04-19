@@ -1,16 +1,31 @@
-# flutter_ui_samples
+# Flutter UI Samples
 
-A new Flutter project.
+A collection of reusable Flutter UI components and widgets.
+
+## Components
+
+- **ProfileCard**: A clean card design for displaying user profiles
+- **CustomActionButton**: A styled button with icon and label
+
+## Features
+
+- Clean, modern UI design
+- Reusable components
+- Interactive elements with callbacks
+- Responsive layouts
+
+## Screenshots
+
+<image src= "https://github.com/Manar2040/flutter_ui_samples/blob/main/ScreenShots/1.png" width ="50%" height = "50%" />
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository
+2. Run `flutter pub get`
+3. Run `flutter run` to start the app
 
-A few resources to get you started if this is your first Flutter project:
+## Future Additions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- More UI components
+- Theme customization
+- Animation examples
