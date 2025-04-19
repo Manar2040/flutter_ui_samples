@@ -16,7 +16,7 @@ A collection of reusable Flutter UI components and widgets.
 
 ## Screenshots
 
-<image src= "https://github.com/Manar2040/flutter_ui_samples/blob/main/ScreenShots/1.png" width ="50%" height = "50%" />
+<image src= "screenshots/1.png" width ="50%" height = "50%" />
 
 ## Getting Started
 
